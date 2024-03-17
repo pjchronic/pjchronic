@@ -7,18 +7,29 @@
 <hr>
   
 ## O que eu sei fazer:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,figma,ps)
+<div style="display: flex;">
+<img src="https://skillicons.dev/icons?i=html" title="html5">
+<img src="https://skillicons.dev/icons?i=css" title="css 3">
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=git" title="Git">
+<img src="https://skillicons.dev/icons?i=figma" title="Figma">
+<img src="https://skillicons.dev/icons?i=ps" title="Photoshop">
+</div>
 
  ## O que ando estudando:
-![My Skills](https://skillicons.dev/icons?i=react,vue,linux)
-
+<div style="display= flex;">
+  <img src="https://skillicons.dev/icons?i=react" title="React">
+  <img src="https://skillicons.dev/icons?i=vue" title="VUE">
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux">
+</div>
+ 
 <hr>
 
 ### Meus links:
 <div>
-  <a href="https://www.linkedin.com/in/pejota-paulojunior?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/pj_chronic?igsh=YXJnN25nOTNzcjBn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/MMNX9kn29r"target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pejota-paulojunior?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="Meu perfil no LinkedIn"></a>
+  <a href="https://www.instagram.com/pj_chronic?igsh=YXJnN25nOTNzcjBn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Meu perfil no Instagram"></a>
+  <a href="https://discord.gg/MMNX9kn29r"target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" title="Converse comigo no Discord"></a>
 </div>
 
 <!--
