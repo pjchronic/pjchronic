@@ -9,7 +9,7 @@
 ## O que eu sei fazer:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,figma,ps)
 
- ## O que ando estudando?
+ ## O que ando estudando:
 ![My Skills](https://skillicons.dev/icons?i=react,vue,linux)
 
 <hr>
