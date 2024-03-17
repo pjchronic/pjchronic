@@ -4,13 +4,15 @@
 * 🤓 Sou formado em Design, Técnico de Gestão de Pessoas e estou cursando pós-graduação em Desenvolvimento WEB FullStack;
 * 😍 Amo técnologia no geral, adoro mexer com hardware e procuro estar sempre antenado sobre o mercado de técnologia.
 
-  <hr>
+<hr>
   
 ## O que eu sei fazer:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,figma,ps)
 
  ## O que ando estudando?
 ![My Skills](https://skillicons.dev/icons?i=react,vue,linux)
+
+<hr>
 
 ### Meus links:
 <div>
