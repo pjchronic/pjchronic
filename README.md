@@ -1,4 +1,4 @@
-# Olá! Sou recrutador tech e estou em transição de carreira ☺️
+# Olá! Sou Recrutador Tech e estou em transição de carreira ☺️
 
 * 👨‍💻 Atualmente sou Recrutador e trabalho com R&S no setor de RH de uma empresa;
 * 🤓 Sou formado em Design, Técnico de Gestão de Pessoas e estou cursando pós-graduação em Desenvolvimento WEB FullStack e em Experiência do Usuário - UX;
