@@ -1,6 +1,6 @@
-# Olá! Sou Recrutador Tech e estou em transição de carreira ☺️
+# Olá! Sou desenvolvedor FrontEnd Jr ☺️
 
-* 👨‍💻 Atualmente sou Recrutador e trabalho com R&S no setor de RH de uma empresa;
+* 👨‍💻 Passei por uma transição de carreira e antes trabalhava com Recrutamento e Seleção;
 * 🤓 Sou formado em Design, Técnico de Gestão de Pessoas e estou cursando pós-graduação em Desenvolvimento WEB FullStack e em Experiência do Usuário - UX;
 * 😍 Amo técnologia no geral, adoro mexer com hardware e meu forte atualmente é o FrontEnd.
 
@@ -10,15 +10,17 @@
 <div style="display: flex;">
 <img src="https://skillicons.dev/icons?i=html" title="html5">
 <img src="https://skillicons.dev/icons?i=css" title="css 3">
+<img src="https://skillicons.dev/icons?i=ts" title="Typescript">
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=react" title="React">
 <img src="https://skillicons.dev/icons?i=git" title="Git">
+<img src="https://skillicons.dev/icons?i=materialui" title="MaterialUI">
 <img src="https://skillicons.dev/icons?i=figma" title="Figma">
 <img src="https://skillicons.dev/icons?i=ps" title="Photoshop">
 </div>
 
  ## O que ando estudando:
 <div style="display= flex;">
-  <img src="https://skillicons.dev/icons?i=react" title="React">
   <img src="https://skillicons.dev/icons?i=vue" title="VUE">
   <img src="https://skillicons.dev/icons?i=linux" title="Linux">
 </div>
