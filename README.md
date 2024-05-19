@@ -8,8 +8,8 @@
   
 ## O que eu sei fazer:
 <div style="display: flex;">
-<img src="https://skillicons.dev/icons?i=html" title="html5">
-<img src="https://skillicons.dev/icons?i=css" title="css 3">
+<img src="https://skillicons.dev/icons?i=html" title="HTML5">
+<img src="https://skillicons.dev/icons?i=css" title="CSS3">
 <img src="https://skillicons.dev/icons?i=ts" title="Typescript">
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
 <img src="https://skillicons.dev/icons?i=react" title="React">
@@ -17,12 +17,13 @@
 <img src="https://skillicons.dev/icons?i=materialui" title="MaterialUI">
 <img src="https://skillicons.dev/icons?i=figma" title="Figma">
 <img src="https://skillicons.dev/icons?i=ps" title="Photoshop">
+<img src="https://skillicons.dev/icons?i=ubuntu" title="Linux - Ubuntu">
 </div>
 
  ## O que ando estudando:
 <div style="display= flex;">
-  <img src="https://skillicons.dev/icons?i=vue" title="VUE">
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux">
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS">
+  <img src="https://skillicons.dev/icons?i=express" title="express">
 </div>
  
 <hr>
