@@ -1,4 +1,4 @@
-# Olá! Sou desenvolvedor FrontEnd Jr ☺️
+# Olá! Sou desenvolvedor FullStack Jr ☺️
 
 * 👨‍💻 Passei por uma transição de carreira e antes trabalhava com Recrutamento e Seleção;
 * 🤓 Sou formado em Design, Técnico de Gestão de Pessoas e estou cursando pós-graduação em Desenvolvimento WEB FullStack e em Experiência do Usuário - UX;
