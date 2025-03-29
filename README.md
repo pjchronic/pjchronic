@@ -13,6 +13,7 @@
 <img src="https://skillicons.dev/icons?i=ts" title="Typescript">
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
 <img src="https://skillicons.dev/icons?i=react" title="React">
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.Js">
 <img src="https://skillicons.dev/icons?i=git" title="Git">
 <img src="https://skillicons.dev/icons?i=materialui" title="MaterialUI">
 <img src="https://skillicons.dev/icons?i=figma" title="Figma">
